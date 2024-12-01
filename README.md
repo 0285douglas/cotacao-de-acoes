@@ -6,9 +6,6 @@
 ### Descrição
 Este projeto tem a funcionalidade de coletar todas as informações de movimentações semanais de uma ação desejada.
 
-> Exemplo:
->
-> Esse projeto consiste em uma aplicação que automatiza o processo de obter informações dos valores de um ticker. Ele foi desenvolvido para ser rápido e eficiente utilizando tecnologias como API's e Pandas.
 
 ---
 
@@ -53,8 +50,6 @@ pip install requests
 ---
 
 ## 🚀 Como Usar <a name="como-usar"></a>
-
-Explique brevemente como o projeto pode ser utilizado. Isso pode incluir a execução de scripts, APIs ou qualquer funcionalidade principal que o projeto possua.
 
  Após instalação dos frameworks basta abrir o arquivo "cotacao-de-acoes.ipynb" no seu editor de código, ir na última célula de comando e procurar pela variável "acao" e alterar o seu valor definido pelo ticker de sua escolha. Na sequência é necessário executar a célula para obter todas as informações sobre as movimentações semanais da ação.
 
